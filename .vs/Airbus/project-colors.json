@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ffe811de-8155-4368-9cdf-6e1cf2252652": {
+      "ProjectGuid": "ffe811de-8155-4368-9cdf-6e1cf2252652",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 0
+    },
+    "798547c3-f151-4894-a4fe-572f94ce54d5": {
+      "ProjectGuid": "798547c3-f151-4894-a4fe-572f94ce54d5",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    },
+    "eeec8c03-5e60-4c14-a719-f057f8b21976": {
+      "ProjectGuid": "eeec8c03-5e60-4c14-a719-f057f8b21976",
+      "DisplayName": "Entities",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
